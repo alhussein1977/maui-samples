@@ -43,4 +43,4 @@ This project has adopted the code of conduct defined by the [Contributor Covenan
 
 .NET (including the maui-samples repo) is licensed under the [MIT](LICENSE) license.
 
-p\Moain Alabasi
+py\alhussein1977
